@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main()
 {
@@ -8,3 +9,14 @@ int main()
 }
 
 
+// char type variable
+char status = 'Y';
+
+// int type variable
+int marks = 95;
+
+// float type variable
+float percentage = 94.6;
+
+// double type variable
+double long = 76.997429;
